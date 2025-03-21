@@ -1,0 +1,3 @@
+Triggers (on): The pipeline is triggered on push or pullrequest events for the main branch. 
+Jobs: Each job represents a set of tasks that run in a specific environment. 
+Steps: Each step performs a specific action like checking out the code, setting up the environment, installing dependencies, running tests, and deploying.
